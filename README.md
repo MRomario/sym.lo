@@ -1,0 +1,2 @@
+# sym.lo
+symfony test
